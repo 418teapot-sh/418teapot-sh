@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there! I'm Seunghwan Song 👋
+**[Status: 418 I'm a teapot]** ☕ Brewing code, not coffee.
 
-<!--
-**418teapot-sh/418teapot-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**
+* **Hongik University** | B.S. in Computer Engineering (2022.03 ~ Present)
 
-Here are some ideas to get you started:
+🏎️ **Interests**
+* Backend Development
+* F1 Data Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact**
+* **Email:** [bourne11594@gmail.com](mailto:bourne11594@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white)
