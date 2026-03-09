@@ -8,6 +8,9 @@
 * Backend Development
 * F1 Data Engineering
 
+📜 **Certifications & Memberships**
+* **KARA Official (Grade C2)** | Korea Automobile Racing Association
+
 📫 **Contact**
 * **Email:** [bourne11594@gmail.com](mailto:bourne11594@gmail.com)
 
