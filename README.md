@@ -10,6 +10,7 @@
 
 📜 **Certifications & Memberships**
 * **KARA Official (Grade C2)** | Korea Automobile Racing Association
+* **SQLD (SQL Developer)** | Korea Data Agency (2026.03)
 
 📫 **Contact**
 * **Email:** [bourne11594@gmail.com](mailto:bourne11594@gmail.com)
