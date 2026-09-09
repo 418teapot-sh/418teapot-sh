@@ -7,7 +7,7 @@
 ### 🏆 Activities & Awards
 * **Best Potential Award (Like Lion 14th Hackathon)** | Project 'MYC' (2026.08)
 * **LG Aimers 9th (Phase 1&2) Completion** | LG AI Research (2026.06 ~ 2026.09)
-* **Hongik Univ. Like Lion 14th** | Backend Part (2026.03 ~ 2026.12)
+* **Hongik Univ. Like Lion 14th** | Backend Part (2026.03 ~ Present)
 * **Hongik Univ. Golf Club 'Swing-It'** | Vice President (2025 ~ Present)
 
 ### 📜 Certifications & Memberships
